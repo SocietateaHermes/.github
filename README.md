@@ -1,3 +1,0 @@
-# Societatea Hermes
-
-Hello, world!
