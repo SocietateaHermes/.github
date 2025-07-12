@@ -1,1 +1,3 @@
-# .github
+# Societatea Hermes
+
+Hello, world!
